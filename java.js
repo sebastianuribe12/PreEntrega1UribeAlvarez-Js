@@ -1,0 +1,1 @@
+alert("- Ingrese a la consola")
